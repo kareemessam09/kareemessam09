@@ -30,10 +30,9 @@
     <img src="https://skillicons.dev/icons?i=kotlin,java,html,css,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,mysql" /><br>
 </div>
-
 <br/><br/>
 
-
+<br/><br/>
 
 
 
@@ -41,17 +40,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemessam09&show_icons=true&locale=en&layout=compact" alt="kareemessam09" />
 </p>
 
-
-
 <br/><br/>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareemessam09&" alt="kareemessam09" />
 </p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kareemessam09/kareemessam09/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
