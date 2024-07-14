@@ -22,8 +22,6 @@
 
 <br/><br/>
 
-
-
 <h3 align="left">Tech Stack:</h3>
 
 <div align="center">
@@ -31,18 +29,9 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,mysql" /><br>
 </div>
 <br/><br/>
-
-<br/><br/>
-
-
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemessam09&show_icons=true&locale=en&layout=compact" alt="kareemessam09" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemessam09&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="kareemessam09" />
 </p>
-
-<br/><br/>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareemessam09&" alt="kareemessam09" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareemessam09&theme=dark" alt="kareemessam09" />
 </p>
-
-
