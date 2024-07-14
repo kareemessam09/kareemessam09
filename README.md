@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kareem+Essam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Kareem+Essam!;" />
 </h1>
 
 <h3 align="center">An enthusiastic Android developer in training, I got my high school degree from STEM Ismailia School. Now honing my skills at the Faculty of Computers and Informatics, Suez Canal University, I'm driven by a love for coding and creating some NATIVE apps :) ;
@@ -48,6 +48,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareemessam09&" alt="kareemessam09" />
 </p>
 
-
-![snake gif](https://github.com/kareemessam09/kareemessam09/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kareemessam09/kareemessam09/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
